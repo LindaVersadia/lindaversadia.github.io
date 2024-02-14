@@ -12,7 +12,7 @@
     </head>
       
     <body>
-    <h1 style="background-color:blue";>
+    <h1>
       Website Prompt
     </h1>
     <p>
